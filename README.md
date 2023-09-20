@@ -1,4 +1,7 @@
-# test1
-# test1
+# NEAF_Exam
+> This repo is for new NEAF member exam.
 
-jijljkk,j
+Name: *Your own name in English* 
+Time: *yyyy/mm/dd hh:mm*
+Device: *Your computer product name, ex: Macbook Air*
+
